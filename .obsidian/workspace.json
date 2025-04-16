@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c594916f847df94b",
+            "id": "0e4ec19583552e2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CPS/sem-2/projects/HMI project/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
-                "mode": "source",
-                "source": false
+                "file": "PDF/s42400-023-00195-4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "HMI Project Heuristic and Experimental evaluation of E commerce sites"
+              "icon": "lucide-file-text",
+              "title": "s42400-023-00195-4"
             }
           }
         ]
@@ -166,8 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c594916f847df94b",
+  "active": "0e4ec19583552e2a",
   "lastOpenFiles": [
+    "PDF/2402.06904v1.pdf",
+    "PDF/s42400-023-00195-4.pdf",
+    "PDF/sensors-21-03654-v3.pdf",
+    "PDF/Transfer_Learning-Based_Intrusion_Detection_System_for_a_Controller_Area_Network.pdf",
+    "README.md",
+    "ICP-Topic.md",
+    "PDF",
+    "Idustrial-Communiaction-Protocol-Topic",
     "CPS/sem-2/projects/HMI project/Web_Accessibility_and_Guidelines.pdf",
     "CPS/sem-2/projects/HMI project/Web-Site Evaluation.md",
     "CPS/sem-2/projects/HMI project/Ergonomics - web specfications - Oussema Ben Ayech.pptx",
@@ -183,10 +189,6 @@
     "other stuff/series to watch.md",
     "other stuff/t5albiz.md",
     "CTF/HTB/machines/titanic/titanic.md",
-    "CTF/HTB/machines/titanic/hash.txt~",
-    "CTF/HTB/machines/titanic/hash.txt",
-    "CTF/HTB/machines/titanic/gitea.db",
-    "CTF/HTB/machines/titanic/namp.txt",
     "CTF/OTW/natas/natas.md",
     "CTF/HTB/machines/dog/dog.md",
     "().md",
@@ -200,9 +202,7 @@
     "Pasted image 20250407100807.png",
     "Pasted image 20250407100527.png",
     "CTF/HTB/machines/dog/assets/Pasted image 20250407045856.png",
-    "CTF/HTB/machines/dog/secrets",
     "CTF/HTB/machines/dog/dog.htb/themes/README.md",
-    "CTF/HTB/machines/dog/dog.htb/themes",
     "CTF/HTB/machines/dog/dog.htb/sites/README.md",
     "CTF/HTB/machines/dog/dog.htb/layouts/README.md",
     "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/staging/README.md",
@@ -210,8 +210,6 @@
     "CTF/HTB/machines/dog/dog.htb/files/README.md",
     "CTF/HTB/machines/dog/dog.htb/core/themes/stark/README.md",
     "CTF/HTB/machines/dog/dog.htb/core/themes/seven/README.md",
-    "CTF/HTB/machines/dog/dog.htb/core/themes/basis/css/README.md",
-    "CTF/HTB/machines/dog/dog.htb/core/themes/basis/README.md",
-    "CTF/HTB/machines/dog/dog.htb/core/profiles/README.md"
+    "CTF/HTB/machines/dog/dog.htb/core/themes/basis/css/README.md"
   ]
 }
