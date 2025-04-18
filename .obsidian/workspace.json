@@ -11,12 +11,14 @@
             "id": "0e4ec19583552e2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/s42400-023-00195-4.pdf"
+                "file": "ICP-Topic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "s42400-023-00195-4"
+              "icon": "lucide-file",
+              "title": "ICP-Topic"
             }
           },
           {
@@ -33,7 +35,8 @@
               "title": "ICP-Topic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "906421fb03648ac4",
@@ -179,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e4ec19583552e2a",
+  "active": "51f8b563ac357f68",
   "lastOpenFiles": [
-    "ICP-Topic.md",
     "PDF/s42400-023-00195-4.pdf",
+    "ICP-Topic.md",
+    "PDF/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf",
     "PDF/2402.06904v1.pdf",
     "PDF/sensors-21-03654-v3.pdf",
     "PDF/Transfer_Learning-Based_Intrusion_Detection_System_for_a_Controller_Area_Network.pdf",
@@ -199,7 +202,6 @@
     "CPS/sem-2/projects/Control Syste Project/FAULT--Digital twins in CPS and relationship with Control System.md",
     "CPS/sem-2/projects/Control Syste Project/Digital twins in CPS and relationship with Control System.md",
     "CTF/Ethernaut/Ethernaut.md",
-    "CTF/Ethernaut",
     "other stuff/tech_Stuff.md",
     "other stuff/series to watch.md",
     "other stuff/t5albiz.md",
